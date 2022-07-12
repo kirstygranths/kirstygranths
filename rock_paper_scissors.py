@@ -3,7 +3,7 @@ import random
 #MOVES
 player_score = 0
 computer_score = 0
-print('Rock, Paper Scissors. Best out of 3.')
+print('Rock, Paper Scissors. Best out of 3 rounds.')
 
 actions = ["Rock", "Paper", "Scissors"]
 
